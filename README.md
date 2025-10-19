@@ -1,7 +1,7 @@
-# 👋 Olá, nós somos a WRDesign
+# 👋 Olá, nós somos a **WRDesign.AI**
 
-Somos um estúdio de **design e tecnologia** que transforma ideias em soluções digitais completas.  
-Nosso foco está em unir **estética, performance e inteligência** para criar experiências impactantes.
+Unimos **design, tecnologia e inteligência artificial** para criar experiências digitais que geram valor real para marcas e pessoas.  
+Desde 2004, ajudamos empresas a crescer e inovar com soluções que equilibram **estética, performance e estratégia**.
 
 ---
 
@@ -14,19 +14,19 @@ Nosso foco está em unir **estética, performance e inteligência** para criar e
 
 ---
 
-## 🧠 Nossa missão
-Ajudar marcas a **crescer e inovar** com produtos digitais que unem **design, código e estratégia**.
+## 🎯 Nossa missão
+Ajudar empresas a **crescer, inovar e escalar** com produtos digitais que unem **design, performance e inteligência**.
 
 ---
 
-## 📈 Projetos em destaque
+## 💼 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| 🌐 **WR Dashboard** | Plataforma de análise de dados e relatórios personalizados. | React • Node.js • MongoDB |
+|----------|------------|-------------|
+| 🌐 **WR Dashboard** | Plataforma inteligente de análise de dados e relatórios personalizados. | React • Node.js • MongoDB |
 | 📱 **WR Mobile App** | Aplicativo híbrido para gestão de projetos e comunicação. | Flutter • Firebase |
-| 🤖 **WR AI Toolkit** | Ferramentas de automação e inteligência artificial aplicadas a marketing e design. | Python • OpenAI API |
-| 💼 **Portfolio Sites** | Sites corporativos otimizados para performance e SEO. | Next.js • Tailwind • Vercel |
+| 🤖 **WR AI Toolkit** | Ferramentas de automação e inteligência artificial aplicadas ao design e marketing. | Python • OpenAI API |
+| 💼 **Portfolio Sites** | Sites corporativos otimizados para performance e SEO. | Next.js • TailwindCSS • Vercel |
 
 ---
 
@@ -38,28 +38,28 @@ Ajudar marcas a **crescer e inovar** com produtos digitais que unem **design, c�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wrdesign&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrdesign&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wrdesignai&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrdesignai&theme=radical" height="160px" />
 </div>
 
 ---
 
-## 🤝 Conecte-se conosco
+## 🤝 Conecte-se conosco  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wagner%20Rodrigues%20Gomes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wagner-rodrigues-gomes-109157312/)
 [![Instagram](https://img.shields.io/badge/Instagram-@wrdesign.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wrdesign.ai/)
-[![Website](https://img.shields.io/badge/Website-wrdesign.com-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wrdesign.com)
-[![Email](https://img.shields.io/badge/Email-contato@wrdesign.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@wrdesign.com)
+[![Website](https://img.shields.io/badge/Website-wrdesign.com.br-1E1E1E?style=for-the-badge&logo=google-chrome)](https://www.wrdesign.com.br)
+[![Email](https://img.shields.io/badge/Email-contato@wrdesign.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@wrdesign.com.br)
 
 ---
 
 > “Design é a ponte entre pessoas e tecnologia.  
->  Aqui na WRDesign, nós construímos essa ponte todos os dias.”
-
----
+> Na **WRDesign.AI**, nós construímos essa ponte todos os dias.”  
+> — *Wagner Rodrigues Gomes*

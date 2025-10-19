@@ -50,11 +50,12 @@ Ajudar marcas a **crescer e inovar** com produtos digitais que unem **design, c�
 
 ---
 
-## 🤝 Vamos conversar?
-💌 **contato@wrdesign.com**  
-🌍 [www.wrdesign.com](https://www.wrdesign.com)  
-💼 [LinkedIn](https://linkedin.com/company/wrdesign)  
-📷 [Instagram](https://instagram.com/wrdesign)
+## 🤝 Conecte-se conosco
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wagner%20Rodrigues%20Gomes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wagner-rodrigues-gomes-109157312/)
+[![Instagram](https://img.shields.io/badge/Instagram-@wrdesign.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wrdesign.ai/)
+[![Website](https://img.shields.io/badge/Website-wrdesign.com-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wrdesign.com)
+[![Email](https://img.shields.io/badge/Email-contato@wrdesign.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@wrdesign.com)
 
 ---
 

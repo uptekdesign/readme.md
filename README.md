@@ -1,39 +1,64 @@
-# 👋 Olá, eu sou Wagner Rodrigues
+# 👋 Olá, nós somos a WRDesign
 
-💻 **Fundador & Desenvolvedor Web na WRDesign**  
-🌐 **Desde 2004 ajudando empresas a crescer online** com sites modernos, responsivos e otimizados para SEO.  
-
----
-
-## 🚀 Sobre mim
-Sou desenvolvedor web apaixonado por transformar ideias em **soluções digitais funcionais**.  
-Na **WRDesign**, crio sites institucionais, portfólios e e-commerces com foco em **design responsivo, performance e SEO**.  
-
-- 🔧 Tecnologias: HTML, CSS, JavaScript, React, WordPress, SEO  
-- 📈 Missão: aumentar a **credibilidade e resultados** de cada cliente  
-- 🤝 Aberto a colaborações e novos projetos  
+Somos um estúdio de **design e tecnologia** que transforma ideias em soluções digitais completas.  
+Nosso foco está em unir **estética, performance e inteligência** para criar experiências impactantes.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
-![SEO](https://img.shields.io/badge/-SEO-4285F4?logo=google&logoColor=white&style=for-the-badge)
+## 🚀 O que fazemos
+- **Front-end:** React, Next.js, TailwindCSS  
+- **Back-end:** Node.js, Express, APIs REST e GraphQL  
+- **Mobile:** Flutter e React Native  
+- **IA e Data Science:** automações, análise de dados e integração com APIs de IA  
+- **Design:** UI/UX, identidade visual e branding digital  
 
 ---
 
-## 🌟 Projetos em destaque
-- [DEGE Website](https://www.dege.com.br) – Website institucional moderno e responsivo  
-- [Rodrigues & Wisnievski Advogados](https://www.rodriguesewisnievskiadv.com.br) – Site institucional para escritório de advocacia  
+## 🧠 Nossa missão
+Ajudar marcas a **crescer e inovar** com produtos digitais que unem **design, código e estratégia**.
 
 ---
 
-## 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagner-rodrigues-gomes-109157312/)
-[![WRDesign](https://img.shields.io/badge/-WRDesign-000000?style=for-the-badge)](https://www.wrdesign.com.br)
+## 📈 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| 🌐 **WR Dashboard** | Plataforma de análise de dados e relatórios personalizados. | React • Node.js • MongoDB |
+| 📱 **WR Mobile App** | Aplicativo híbrido para gestão de projetos e comunicação. | Flutter • Firebase |
+| 🤖 **WR AI Toolkit** | Ferramentas de automação e inteligência artificial aplicadas a marketing e design. | Python • OpenAI API |
+| 💼 **Portfolio Sites** | Sites corporativos otimizados para performance e SEO. | Next.js • Tailwind • Vercel |
 
 ---
-✍️ *“Transformando ideias em sites que geram resultados desde 2004.”*
+
+## ⚙️ Tecnologias & Ferramentas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wrdesign&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrdesign&theme=radical" height="160px" />
+</div>
+
+---
+
+## 🤝 Vamos conversar?
+💌 **contato@wrdesign.com**  
+🌍 [www.wrdesign.com](https://www.wrdesign.com)  
+💼 [LinkedIn](https://linkedin.com/company/wrdesign)  
+📷 [Instagram](https://instagram.com/wrdesign)
+
+---
+
+> “Design é a ponte entre pessoas e tecnologia.  
+>  Aqui na WRDesign, nós construímos essa ponte todos os dias.”
+
+---
